@@ -1,0 +1,28 @@
+
+# 📑 Changelog
+
+All notable changes to this project will be documented in this file.
+
+---
+
+## \[1.0.0] – 2025-08-24
+
+### 🚀 Initial Release
+
+* Added **floating Docs button** at top-right corner.
+* Implemented **expandable sidebar** with thumbnails for each document.
+* Added **modal iframe preview** (open docs without leaving Blogger).
+* Integrated **responsive design** for desktop & mobile.
+* Included **Google Docs demo links + custom thumbnails**.
+* Added **embedded contact form** support.
+
+---
+
+## \[Upcoming] – Planned Features
+
+* 🎨 Multiple layout styles (grid, list, carousel).
+* ⚡ Lazy loading for thumbnails & iframe previews.
+* 🌙 Optional **Dark Mode** toggle.
+* 🔄 Smooth animations for transitions.
+
+---
